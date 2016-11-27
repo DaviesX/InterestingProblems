@@ -39,6 +39,9 @@ For this problem, a path is defined as any sequence of nodes from some starting 
 
 For example:
 Given the below binary tree,
+```
        1
       / \
      2   3
+```
+Return 6.
